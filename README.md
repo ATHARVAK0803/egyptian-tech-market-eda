@@ -16,7 +16,7 @@ This project explores the Egyptian Tech Market Survey 2024 dataset using explora
 - Company size and market insights
 
 ## Dataset
-Source: Kaggle – Egyptian Tech Market Survey 2024
+Source: Kaggle – Egyptian Tech Market Survey - 2024
 
 ## Outcome
 Extracted actionable insights on career progression, skills demand, and compensation patterns.
